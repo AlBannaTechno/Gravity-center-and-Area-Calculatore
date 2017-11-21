@@ -1,0 +1,7 @@
+a=(34,234)
+v=list(a)
+print(type(a))
+print(type(v))
+print(type([34,43]))
+v.append(10)
+print(v)
