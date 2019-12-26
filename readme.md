@@ -18,6 +18,6 @@
     use right click to toggle between filling shape and lined shape
     
 ### ScreenShots 
-    Look At : Screenshot.png
+![SS](./Screenshot.png)
     
 AreaCollector
